@@ -245,7 +245,7 @@ export default async function HomePage() {
             <span className="font-display font-bold text-foreground text-sm">GoalForge</span>
           </div>
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} GoalForge. Built for AtomQuest Hackathon.
+            © {new Date().getFullYear()} GoalForge. Built for AtomQuest Hackathon. Owned by xe54z.
           </p>
         </div>
       </footer>
